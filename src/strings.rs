@@ -12,7 +12,7 @@ fn main(){
 
     let hello = String::from("Hello"); //immutable string
 
-    let lowercase = hello.to_lowercase();
+    let lowercase =     hello.to_lowercase();
 
     let uppercase = hello.to_uppercase();
 
@@ -59,7 +59,7 @@ fn main(){
 
     let reverse = hello.chars().rev().collect::<String>();
 
-    
+
 
 
     // println!("First slice of {} is {}", hello, hello_slice);

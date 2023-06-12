@@ -13,5 +13,9 @@ path = "src/strings.rs"
 name = "iterator"
 path = "src/iterator.rs"
 
+[[bin]]
+name = "strings2"
+path = "src/strings2.rs"
+
 
 [dependencies]
