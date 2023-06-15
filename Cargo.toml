@@ -17,5 +17,13 @@ path = "src/iterator.rs"
 name = "strings2"
 path = "src/strings2.rs"
 
+[[bin]]
+name = "regex_examples"
+path = "src/regex_examples.rs"
+
+[[bin]]
+name = "vectors"
+path = "src/vectors.rs"
 
 [dependencies]
+regex = "1.8.4"
