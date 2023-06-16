@@ -25,5 +25,13 @@ path = "src/regex_examples.rs"
 name = "vectors"
 path = "src/vectors.rs"
 
+[[bin]]
+name = "files"
+path = "src/files.rs"
+
+[[bin]]
+name = "cat"
+path="src/problems/cat.rs"
+
 [dependencies]
 regex = "1.8.4"

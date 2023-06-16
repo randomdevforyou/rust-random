@@ -127,11 +127,7 @@ fn main(){
 
     let mut iter = a.iter();
 
-    while iter.next() != None {
-        iter.next()
-    }
-
-
+   
 
 
     // iterate over string in reverse order
